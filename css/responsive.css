@@ -168,4 +168,16 @@
   .slider-02 {
     background-position: 78% 50%;
   }
+  .services {
+    padding-left: 12%;
+  }
+  .strong {
+    font-weight: bold;
+  }
+  .services p {
+    font-size: 1.5rem;
+  }
+  .much img {
+    width: 9%;
+  }
 }

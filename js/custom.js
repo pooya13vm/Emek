@@ -6,7 +6,7 @@
     =============================================== */
 
   $(window).on("scroll", function () {
-    if ($(window).scrollTop() > 300) {
+    if ($(window).scrollTop() > 250) {
       $(".top-navbar").addClass("fixed-menu");
     } else {
       $(".top-navbar").removeClass("fixed-menu");
